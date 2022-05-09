@@ -1,0 +1,26 @@
+body{
+  margin: 0;
+  padding: 0;
+  background-color:darkcyan;
+}
+
+.container{
+text-align: left;
+}
+#cols{
+  margin-top: 50px;
+}
+
+
+#row_div{
+  text-align: center;
+}
+.answer{
+  font-size: 20px;
+    font-weight: 700;
+}
+#conts{
+  font-size: 20px;
+    font-weight: 700;
+    color: greenyellow;
+}
