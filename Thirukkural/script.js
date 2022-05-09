@@ -33,7 +33,7 @@ document.getElementById('row_div').appendChild(cols3_div)
 let input1 = document.createElement("input");
 input1.setAttribute("type", "text");
 input1.setAttribute("id", "input");
-input1.setAttribute("placeholder", "Search Thirukkular here..");
+input1.setAttribute("placeholder", "Search Thirukkular Explanation here..");
 input1.setAttribute("class", "form-control", "mt-5");
 document.getElementById('colsinput').appendChild(input1)
 
